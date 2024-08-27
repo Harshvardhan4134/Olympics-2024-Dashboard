@@ -24,7 +24,7 @@ This repository contains a Power BI project titled **"Hackathon"**. This project
 
 ## 📷 Screenshots
 
-![Dashboard Preview](https://photos.google.com/photo/AF1QipMplvCbDS7BNBZhS_8CX9LAfPph7e-_YZmmE8Za)  
+![Dashboard Preview](https://docs.google.com/drawings/d/1IFeQmmZtCxbbH7yJzifaBl3whCSg9Rf2kaCKDjCfUXs/pub?w=960&h=720)  
 *Screenshot of the main dashboard*
 
 ## 🛠️ Setup & Usage
