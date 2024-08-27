@@ -1,4 +1,4 @@
-# Hackathon Power BI Project
+# Paris Olympic 2024 Power BI Project
 
 ![Power BI Logo](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square&logo=powerbi)
 
@@ -14,7 +14,7 @@ This repository contains a Power BI project titled **"Paris Olympic 2024"**. Thi
 
 ## 📁 Files Included
 
-- `Hackathon.pbix` - The main Power BI report file containing all the visualizations and analyses.
+- `Paris Olympic 2024.pbix` - The main Power BI report file containing all the visualizations and analyses.
   
 ## 📊 Key Insights
 
