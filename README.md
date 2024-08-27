@@ -4,7 +4,7 @@
 
 ## 📝 Overview
 
-This repository contains a Power BI project titled **"Hackathon"**. This project demonstrates how data visualization can provide key insights into various aspects of performance, trends, and data metrics for a hackathon event.
+This repository contains a Power BI project titled **"Paris Olympic 2024"**. This project demonstrates how data visualization can provide key insights into various aspects of performance, trends, and data metrics for a hackathon event.
 
 ## 📊 Project Features
 
