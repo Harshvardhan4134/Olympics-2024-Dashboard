@@ -10,7 +10,7 @@ This repository contains a Power BI project titled **"Paris Olympic 2024"**. Thi
 
 - **Visual Analytics:** Dynamic charts and graphs that analyze trends, performance metrics, and critical data points.
 - **Interactive Dashboards:** Fully interactive Power BI dashboards that allow users to explore different dimensions of the data.
-- **Data-Driven Insights:** Comprehensive insights into the hackathon's participants, performance, and results.
+- **Data-Driven Insights:** Comprehensive insights into the Olympic's participants, performance, and results.
 
 ## 📁 Files Included
 
